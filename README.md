@@ -10,8 +10,8 @@ Extractor Development Toolkits for WebRTC Samples
   - Install package dependencies 
     - `npm ci`
   - Build the library
-    - `npm run build` ( developer version )
-    - `npm run build-dev` ( production version )
+    - `npm run build-dev` ( developer version )
+    - `npm run build` ( production version )
 
   Once build is complete it will create `observer.js` ( developer) or `observer.min.js` ( production ) library in the `dist` folder.
 
